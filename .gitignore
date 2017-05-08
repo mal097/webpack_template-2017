@@ -1,0 +1,6 @@
+**/.DS_Store
+**/.sass-cache
+**/node_modules
+
+htdocs/assets/css/style.css
+htdocs/assets/js/script.js
